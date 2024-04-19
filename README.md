@@ -8,8 +8,7 @@ This JavaScript project creates a simple animation where a pair of eyes follows 
 ## Features
 
 - Real-time eye movement tracking.
-- Interactive animation that follows the mouse cursor.
-- Engaging user experience.
+- Animation that follows the mouse cursor.
 
 ## Usage
 
