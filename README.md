@@ -19,9 +19,6 @@ This JavaScript project creates a simple animation where a pair of eyes follows 
 3. Move your mouse cursor within the browser window, and observe how the eyes follow its movement.
 
 ##  Future Enhancements
-
-We have plans to enhance this project with the following features in the future:
-
 -  Add a reaction animation when eyes are clicked(such as angry eyes or happy eyes)
 -  Support for multiple pairs of eyes on the same page.
 -  Blink an Eye when a mouse button is pressed.
